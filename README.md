@@ -32,6 +32,8 @@ The rotation of an object in 3D space can indeed be divided into two parts, wher
     Here, 𝜃 represents the angle of rotation about the Y-axis. When the mouse moves to the right, 𝜃 is positive. Conversely, when the mouse moves to the left, 𝜃 is negative.
 
 3. Vertical Movement (Rotate about X-Axis):
+
+   <img src="https://render.githubusercontent.com/render/math?math={\color{white}\P(A|B)=\frac{\P(B|A)\P(A)}{\P(B|A)\P(A)\%2BP(B|\neg A)\P(\neg A)}}#gh-dark-mode-only">
    
    ```math
    $$\begin{bmatrix}
