@@ -35,14 +35,13 @@ The rotation of an object in 3D space can indeed be divided into two parts, wher
 
    ```math
    $$\begin{bmatrix}
-    1 & 0 & 0\\\
-    0 & cos\theta & -sin\theta\\\
+    1 & 0 & 0\\
+    0 & cos\theta & -sin\theta\\
     0 & sin\theta & cos\theta
     \end{bmatrix}$$
    ```
 
     In this case, 𝜃 represents the angle of rotation about the X-axis. When the mouse moves downward, 𝜃 is positive. Conversely, when the mouse moves upward, 𝜃 is negative.
-
 
 ## Part 2
 
