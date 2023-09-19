@@ -33,10 +33,10 @@ The rotation of an object in 3D space can indeed be divided into two parts, wher
 
 3. Vertical Movement (Rotate about X-Axis):
    
-   ``` math
+   ```math
    $$\begin{bmatrix}
-    1 & 0 & 0\\
-    0 & cos\theta & -sin\theta\\
+    1 & 0 & 0\\\
+    0 & cos\theta & -sin\theta\\\
     0 & sin\theta & cos\theta
     \end{bmatrix}$$
    ```
